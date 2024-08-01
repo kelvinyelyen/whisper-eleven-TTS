@@ -22,7 +22,7 @@ Real-time speech transcription, natural language processing, and text-to-speech 
     - **Audio Streaming**: Uses `sd.InputStream` to capture audio data in real-time. The audio callback function processes incoming data and converts it to the format required by Whisper.
 
 
-### Code Implementation
+### Implementation Details
 
 1. **Initialization**:
    - API clients for OpenAI and ElevenLabs are instantiated using API keys loaded from environment variables.
