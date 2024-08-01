@@ -1,0 +1,7 @@
+assemblyai
+elevenlabs
+openai
+streamlit
+whisper
+sounddevice
+python-dotenv
